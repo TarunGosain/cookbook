@@ -1,3 +1,4 @@
 Apple Pie
 Spaghetti
 spaghetti1
+changes made after stashing this file to stash are stash {0}
